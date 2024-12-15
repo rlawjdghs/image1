@@ -117,9 +117,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=j5dCGkNGcXQ",
+            "https://www.youtube.com/watch?v=2G6ioFX3ywU",
+            "https://www.youtube.com/watch?v=lQpVQC1e_UQ"
         ],
         'texts': [
             "타이레놀500mg알약",
