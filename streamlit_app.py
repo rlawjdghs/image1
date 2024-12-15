@@ -122,9 +122,9 @@ content_data = {
             "https://www.youtube.com/watch?v=lQpVQC1e_UQ"
         ],
         'texts': [
-            "타이레놀500mg알약",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "래피콜콜드알약",
+            "부스코판플러스알약",
+            "타이레놀500mg알약"
         ]
     }
 }
